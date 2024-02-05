@@ -1,0 +1,515 @@
+{
+  "basics": {
+    "url": {
+      "href": "",
+      "label": ""
+    },
+    "name": "Joan Doe",
+    "email": "joan.doe@example.com",
+    "phone": "+123 456 7890",
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "",
+    "location": "Arkansas, US",
+    "customFields": []
+  },
+  "metadata": {
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 18,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#dc2626",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "volunteer",
+          "projects",
+          "references"
+        ],
+        [
+          "interests",
+          "awards",
+          "publications"
+        ]
+      ],
+      [
+        [
+          "custom.xc1oxk8shmk825ghgpy2n1sc",
+          "education",
+          "certifications",
+          "skills",
+          "custom.jdjw6dbzenew1q1x4y4649gk"
+        ],
+        [
+          "languages"
+        ]
+      ]
+    ],
+    "template": "bronzor",
+    "typography": {
+      "font": {
+        "size": 14,
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.5,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "custom": {
+      "xc1oxk8shmk825ghgpy2n1sc": {
+        "name": "Projects Portfolio",
+        "columns": 1,
+        "visible": true,
+        "id": "xc1oxk8shmk825ghgpy2n1sc",
+        "items": [
+          {
+            "id": "tcc3j4qowem6vx60a7pylycg",
+            "visible": true,
+            "name": "Mobile workforce application",
+            "description": "",
+            "date": "Jan 2020 - Dec 2020",
+            "location": "",
+            "summary": "<ul><li><p>Budget: $5 million</p></li><li><p>Duration: 1 year</p></li><li><p>Team Size: 20 members</p></li><li><p>Outcome: Developed and launched a mobile app that increased field service efficiency by 50%.</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "qtmjskc5z46f2t5s4m66a80t",
+            "visible": true,
+            "name": "Enterprise Software Overhaul",
+            "description": "",
+            "date": "Jan 2018 - Dec 2018",
+            "location": "",
+            "summary": "<ul><li><p>Budget: $20 million</p></li><li><p>Duration: 2 years</p></li><li><p>Team Size: 40 members</p></li><li><p>Outcome: Enhanced operational efficiency by 45%, reducing manual processes and automating workflows.</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      },
+      "jdjw6dbzenew1q1x4y4649gk": {
+        "name": "Management Skills",
+        "columns": 2,
+        "visible": true,
+        "id": "jdjw6dbzenew1q1x4y4649gk",
+        "items": [
+          {
+            "id": "deab5ewez5xhsfu7rbdr1mdi",
+            "visible": true,
+            "name": "Cost Optimization",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "olwbuimiqmhd6d79b7mqp5fj",
+            "visible": true,
+            "name": "Strategic Planning and Execution",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "d7vordzaxngp2hja9781quz7",
+            "visible": true,
+            "name": "Budget Management",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "n66r7ot27j8vxfthmzk1rx6g",
+            "visible": true,
+            "name": "Team Building and Leadership",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "ltny0c54zl1k1mgins6o5zwi",
+            "visible": true,
+            "name": "Risk Management and Mitigation",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "moc18yzwmklmrd5kbfgsh1sm",
+            "visible": true,
+            "name": "Effective Communication",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Technical Skills",
+      "items": [
+        {
+          "id": "hxo2fo5quj0ojsoieew7y0xp",
+          "visible": true,
+          "name": "Jira",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "o64efkrhqywe1o06zexj4ha6",
+          "visible": true,
+          "name": "Asana",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "fyc2rraoaxq7q5hp4vqzbz8i",
+          "visible": true,
+          "name": "Trello",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "v1ounfqp6no9cavajhdhab2l",
+          "visible": true,
+          "name": "Microsoft Project",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        }
+      ],
+      "columns": 4,
+      "visible": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "<p>Dedicated Project Manager with 15 years of experience in overseeing complex projects from concept to completion.</p><p>Expert in strategizing, planning, and executing projects valued at over $20 million, with a consistent track record of delivering under budget and ahead of schedule. Skilled in cross-functional team leadership, stakeholder managementand optimizing processes for efficiency and scalability.</p>",
+      "visible": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [
+        {
+          "id": "cx140i3ktwm5ir5lpo2kezs1",
+          "visible": true,
+          "network": " ",
+          "username": "joandoe",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://linkedin.com/in/joandoe"
+          }
+        },
+        {
+          "id": "bucmuhin7q1yx7wbu9jofbxp",
+          "visible": true,
+          "network": " ",
+          "username": "joandoe",
+          "icon": "twitter",
+          "url": {
+            "label": "",
+            "href": "https://x.com/joandoe"
+          }
+        },
+        {
+          "id": "pjg0gx4a5uynwew58hvb2s5n",
+          "visible": true,
+          "network": " ",
+          "username": "joandoe",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/joandoe"
+          }
+        }
+      ],
+      "columns": 3,
+      "visible": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects Portfolio",
+      "items": [
+        {
+          "id": "xiygn9y1xel7com9a7ajprwc",
+          "visible": true,
+          "name": "E-Commerce Platform Migration",
+          "description": "",
+          "date": "Jan 2021 - Dec 2021",
+          "summary": "<ul><li><p>Budget: $15 million</p></li><li><p>Duration: 18 months</p></li><li><p>Team Size: 30 members</p></li><li><p>Outcome: Streamlined online sales process, increasing revenue by 30% and improving customer satisfaction.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "l05h9x0gfl8d6i8wqaezqeq2",
+          "visible": true,
+          "institution": "University of California, Berkeley",
+          "studyType": "MBA",
+          "area": "Project Management",
+          "score": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ftutgr2emhyel7l5qamu0kti",
+          "visible": true,
+          "institution": "Massachusetts Institute of Technology (MIT) ",
+          "studyType": "Bachelor of Science",
+          "area": "Computer Science",
+          "score": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [
+        {
+          "id": "z00h33qh89cxgun6vm2wgu12",
+          "visible": true,
+          "name": "English",
+          "description": "Native",
+          "level": 0
+        },
+        {
+          "id": "qe0g4spnnqr67jjxlizqtvlj",
+          "visible": true,
+          "name": "Spanish",
+          "description": "Professional Working Proficiency",
+          "level": 0
+        }
+      ],
+      "columns": 2,
+      "visible": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Work History",
+      "items": [
+        {
+          "id": "ahslyupguif0cz0zk885kcgg",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Jan 2018 - Present",
+          "company": "XYZ Corp",
+          "summary": "<ul><li><p>Led a portfolio of projects with budgets totaling over $100 million, achieving a 30% cost reduction through vendor negotiations and process optimizations.</p></li><li><p>Managed cross-functional teams of up to 50 members, fostering collaboration and ensuring timely delivery of project milestones.</p></li><li><p>Implemented Agile methodologies, reducing project delivery times by 25% and increasing client satisfaction rates.</p></li></ul>",
+          "visible": true,
+          "location": "New York, NY",
+          "position": "Senior Project Manager"
+        },
+        {
+          "id": "seq59ufeyywfnl1mhuceelu3",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Jul 2010 - Dec 2017",
+          "company": "ABC Technologies",
+          "summary": "<ul><li><p>Directed technology integration projects with budgets up to $15 million, achieving project completion 20% ahead of schedule.</p></li><li><p>Led a digital transformation project that increased operational efficiency by 40%.</p></li><li><p>Developed and maintained relationships with key stakeholders, ensuring alignment with business goals and project objectives.</p></li></ul>",
+          "visible": true,
+          "location": "San Francisco, CA",
+          "position": "Project Manager"
+        },
+        {
+          "id": "l2rhsly3nxa0smnst8e549t0",
+          "visible": true,
+          "company": "Tech Innovations",
+          "position": "Assistant Project Manager",
+          "location": "Boston, MA",
+          "date": "Jun 2005 - Jun 2010",
+          "summary": "<ul><li><p>Assisted in managing a $10 million software development project, delivering the project 10% under budget.</p></li><li><p>Coordinated a team of 25 developers, analysts, and QA specialists, ensuring adherence to best practices and quality standards.</p></li><li><p>Conducted comprehensive risk assessments, mitigating potential delays and budget overruns.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "rklpzdnq03ckngp268b2ks6v",
+          "visible": true,
+          "name": "Project Management Professional (PMP)®",
+          "issuer": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "gehxtxdqo3kdmau6rhv5tenb",
+          "visible": true,
+          "name": "Certified ScrumMaster (CSM)",
+          "issuer": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "afgde7gy56l2twq4fiky4e1p",
+          "visible": true,
+          "name": "Agile Certified Practitioner (PMI-ACP)®",
+          "issuer": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true
+    }
+  }
+}
